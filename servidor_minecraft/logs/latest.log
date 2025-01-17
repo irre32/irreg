@@ -132,3 +132,5 @@
 [17Jan2025 21:24:56.561] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
 [17Jan2025 21:25:16.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6034ms or 120 ticks behind
 [17Jan2025 21:26:56.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[17Jan2025 21:33:41.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4415ms or 88 ticks behind
+[17Jan2025 21:34:03.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6264ms or 125 ticks behind
