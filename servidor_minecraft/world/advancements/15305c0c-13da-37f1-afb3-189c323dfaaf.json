@@ -46,6 +46,7 @@
       "minecraft:stony_shore": "2025-01-07 22:51:38 +0000",
       "minecraft:dripstone_caves": "2025-01-07 04:05:16 +0000",
       "minecraft:snowy_taiga": "2025-01-08 19:41:20 +0000",
+      "minecraft:grove": "2025-01-18 23:17:52 +0000",
       "clifftree:tundra": "2024-12-29 00:41:35 +0000",
       "minecraft:cold_ocean": "2024-12-29 00:18:42 +0000",
       "clifftree:frozen_caves": "2025-01-08 19:42:34 +0000",
@@ -7338,21 +7339,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "has_end_stone_brick": "2025-01-18 05:31:26 +0000"
+      "has_packed_ice": "2025-01-18 02:17:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+  "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
-      "has_end_stone_bricks": "2025-01-18 05:31:26 +0000"
+      "has_disc_fragment_5": "2025-01-18 02:33:17 +0000"
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "tombstone:adventure/almost_unkillable": {
     "criteria": {
-      "killed_dragon": "2025-01-18 04:49:37 +0000"
+      "coded_trigger": "2025-01-18 02:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-01-18 03:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-01-18 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-01-18 03:59:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2025-01-18 04:12:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lost_tablet": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 04:18:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-01-18 04:36:34 +0000"
     },
     "done": true
   },
@@ -7368,123 +7405,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-01-18 02:33:17 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_lost_tablet": {
-    "criteria": {
-      "has_lost_tablet": "2025-01-18 04:12:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-01-18 05:31:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2025-01-18 03:54:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-01-18 02:17:38 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:enderman_teleport_attack": {
-    "criteria": {
-      "teleported_player": "2025-01-18 04:53:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2025-01-18 04:42:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-01-18 05:31:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2025-01-18 03:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-01-18 04:36:34 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_lost_tablet": {
-    "criteria": {
-      "coded_trigger": "2025-01-18 04:18:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2025-01-18 05:31:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-01-18 05:18:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-01-18 05:43:03 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/almost_unkillable": {
-    "criteria": {
-      "coded_trigger": "2025-01-18 02:45:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-18 04:40:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-01-18 05:32:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
-    "criteria": {
-      "has_nether_gold_ore": "2025-01-18 03:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-01-18 05:31:26 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:game_stage_master": {
-    "criteria": {
-      "is_triggered": "2025-01-18 04:49:37 +0000"
     },
     "done": true
   },
@@ -7500,15 +7423,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
+  "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
-      "has_shulker_shell": "2025-01-18 05:19:49 +0000"
+      "has_chorus_fruit": "2025-01-18 04:42:01 +0000"
     },
     "done": true
   },
   "toughasnails:recipes/food/chorus_fruit_juice": {
     "criteria": {
       "has_chorus_fruit": "2025-01-18 04:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-18 04:49:37 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-01-18 04:49:37 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:enderman_teleport_attack": {
+    "criteria": {
+      "teleported_player": "2025-01-18 04:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-18 05:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-18 05:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-18 05:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-18 05:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-18 05:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-18 05:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-01-18 05:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-01-18 05:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-18 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-18 05:43:03 +0000"
     },
     "done": true
   },
