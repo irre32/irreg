@@ -5908,5 +5908,11 @@
     },
     "done": false
   },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-01-18 23:21:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
