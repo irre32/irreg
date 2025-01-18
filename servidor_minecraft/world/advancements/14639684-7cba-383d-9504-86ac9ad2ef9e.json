@@ -7188,6 +7188,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 04:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-01-18 04:25:04 +0000"
@@ -7203,6 +7209,12 @@
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-01-18 02:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 04:40:44 +0000"
     },
     "done": true
   },
@@ -7260,6 +7272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-18 04:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-18 02:36:22 +0000"
@@ -7302,6 +7320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 04:40:44 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:warden_treasure_bag": {
     "criteria": {
       "bag_opened": "2025-01-18 04:13:05 +0000"
@@ -7323,6 +7347,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-01-18 03:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-18 04:40:30 +0000"
     },
     "done": true
   },
@@ -7350,9 +7380,27 @@
     },
     "done": true
   },
+  "majruszsdifficulty:game_stage_master": {
+    "criteria": {
+      "is_triggered": "2025-01-18 04:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-01-18 04:25:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 04:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-01-18 04:40:44 +0000"
     },
     "done": true
   },
@@ -7365,6 +7413,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-01-18 04:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-18 04:40:30 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/chorus_fruit_juice": {
+    "criteria": {
+      "has_chorus_fruit": "2025-01-18 04:44:52 +0000"
     },
     "done": true
   },
