@@ -7257,6 +7257,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/enderium_upgrade_smithing_template": {
+    "criteria": {
+      "has_enderium_upgrade_smithing_template": "2025-01-18 05:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-01-18 04:56:41 +0000"
