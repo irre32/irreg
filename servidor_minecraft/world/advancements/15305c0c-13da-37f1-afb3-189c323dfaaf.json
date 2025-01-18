@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "clifftree:inferno": "2025-01-18 02:27:43 +0000",
+      "minecraft:snowy_slopes": "2025-01-18 03:36:49 +0000",
       "clifftree:sparse_forest": "2024-12-20 22:18:16 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-29 00:36:48 +0000",
       "minecraft:taiga": "2024-12-29 00:20:05 +0000",

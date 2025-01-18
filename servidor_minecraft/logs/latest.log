@@ -195,3 +195,17 @@
 [18Jan2025 03:04:14.485] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
 [18Jan2025 03:04:16.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 was slain by Warden
 [18Jan2025 03:04:16.802] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[18Jan2025 03:21:27.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has completed the challenge [It Spreads]
+[18Jan2025 03:29:00.343] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[18Jan2025 03:35:48.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1286, y=35, z=4110} BlockPos{x=-1284, y=37, z=4110}
+[18Jan2025 03:35:48.140] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1286, y=35, z=4110} BlockPos{x=-1284, y=37, z=4110}
+[18Jan2025 03:35:48.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1286, y=35, z=4110} BlockPos{x=-1284, y=37, z=4110}
+[18Jan2025 03:35:48.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1285, y=36, z=4110} BlockPos{x=-1283, y=38, z=4110}
+[18Jan2025 03:35:48.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1285, y=36, z=4110} BlockPos{x=-1283, y=38, z=4110}
+[18Jan2025 03:35:48.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1285, y=36, z=4110} BlockPos{x=-1283, y=38, z=4110}
+[18Jan2025 03:36:17.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1261, y=60, z=4110} BlockPos{x=-1260, y=61, z=4110}
+[18Jan2025 03:36:17.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1261, y=60, z=4110} BlockPos{x=-1260, y=61, z=4110}
+[18Jan2025 03:36:17.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1261, y=60, z=4110} BlockPos{x=-1260, y=61, z=4110}
+[18Jan2025 03:38:44.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5888ms or 117 ticks behind
+[18Jan2025 03:48:05.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=139, z=158} BlockPos{x=-110, y=138, z=162}
+[18Jan2025 03:50:00.193] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
