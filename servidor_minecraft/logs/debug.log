@@ -2922,3 +2922,24 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [18Jan2025 23:42:07.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ya esta
 [18Jan2025 23:42:22.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> el modificador de contraseñas es la solucion
 [18Jan2025 23:42:29.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
+[18Jan2025 23:43:21.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[18Jan2025 23:43:38.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 23:43:38.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 23:44:03.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [Ol' Betsy]
+[18Jan2025 23:44:14.216] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[18Jan2025 23:45:44.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! 4.621909162812244,-33.0,-6.66648281256289
+[18Jan2025 23:47:15.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> quien puede hacerce tp y elimar estos bloques
+[18Jan2025 23:47:28.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> necesito mis cofres pipi
+[18Jan2025 23:48:38.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 23:48:38.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 23:50:31.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Sky's the Limit]
+[18Jan2025 23:51:00.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -3.311823464169038,-18.0,-1.0434432957949866
+[18Jan2025 23:51:03.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya esta el hardcore
+[18Jan2025 23:51:13.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ç
+[18Jan2025 23:51:14.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no se mueran xd
+[18Jan2025 23:51:28.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CursedArmor['Freshah'/21224, l='ServerLevel[world]', x=-1918.66, y=119.00, z=-1226.50] died: Freshah was slain by Seta33
+[18Jan2025 23:51:41.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> yo necesito que seta venga a mi house
+[18Jan2025 23:52:03.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> en 5 llego
+[18Jan2025 23:52:53.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
+[18Jan2025 23:53:25.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[18Jan2025 23:53:30.949] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
