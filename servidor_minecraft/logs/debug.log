@@ -2644,3 +2644,24 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [18Jan2025 02:15:23.650] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
 [18Jan2025 02:15:23.651] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
 [18Jan2025 02:15:32.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[18Jan2025 02:18:02.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Jan2025 02:19:46.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:19:46.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 02:21:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzzzzzz
+[18Jan2025 02:21:33.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzz
+[18Jan2025 02:24:46.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:24:46.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 02:25:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Tomb Bound]
+[18Jan2025 02:28:19.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was obliterated by a sonically-charged shriek
+[18Jan2025 02:28:19.513] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-934, y:-33, z:-6400, dim:minecraft:overworld]
+[18Jan2025 02:28:19.551] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[18Jan2025 02:28:23.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[18Jan2025 02:29:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was obliterated by a sonically-charged shriek
+[18Jan2025 02:29:26.598] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:-991, y:-52, z:-6450, dim:minecraft:overworld]
+[18Jan2025 02:29:26.636] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[18Jan2025 02:29:31.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> malo
+[18Jan2025 02:29:46.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:29:46.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 02:29:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> lagaso
+[18Jan2025 02:34:46.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 02:34:46.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

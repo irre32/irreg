@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "clifftree:inferno": "2025-01-18 02:27:43 +0000",
       "clifftree:sparse_forest": "2024-12-20 22:18:16 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-29 00:36:48 +0000",
       "minecraft:taiga": "2024-12-29 00:20:05 +0000",
@@ -7328,6 +7329,18 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-01-17 04:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-01-18 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-01-18 02:17:38 +0000"
     },
     "done": true
   },
