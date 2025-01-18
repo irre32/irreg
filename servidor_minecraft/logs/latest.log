@@ -348,3 +348,6 @@
 [18Jan2025 05:18:28.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [The City at the End of the Game]
 [18Jan2025 05:20:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> encontraste algo
 [18Jan2025 05:20:13.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! 7.859686246381443,-17.0,6.653511162680729
+[18Jan2025 05:26:23.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -7.247758332349349,-14.0,-1.9453287730882916
+[18Jan2025 05:32:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [Sky's the Limit]
+[18Jan2025 05:32:35.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> AHG
