@@ -2896,3 +2896,48 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [18Jan2025 05:00:22.664] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
 [18Jan2025 05:00:40.102] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
 [18Jan2025 05:02:14.313] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[18Jan2025 05:05:01.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:05:01.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:06:34.053] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[18Jan2025 05:06:51.897] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[18Jan2025 05:06:56.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[18Jan2025 05:07:05.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe
+[18Jan2025 05:07:09.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> kbro
+[18Jan2025 05:07:09.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> oe ati tambein se te parten los bloques del suelo?
+[18Jan2025 05:07:13.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> si
+[18Jan2025 05:07:17.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[18Jan2025 05:07:18.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> son trampas
+[18Jan2025 05:07:22.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> se diferencian
+[18Jan2025 05:07:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> oe para que sirve la brujula
+[18Jan2025 05:07:40.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> nose
+[18Jan2025 05:07:44.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> tambien quisiera saber
+[18Jan2025 05:09:02.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[18Jan2025 05:09:12.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[18Jan2025 05:09:19.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> kbro
+[18Jan2025 05:09:34.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> hay un enderman
+[18Jan2025 05:09:44.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> que hace que todos los enderman te ataquen
+[18Jan2025 05:09:53.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> si me lo tope
+[18Jan2025 05:09:55.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> encima te dispara wbdas que te tepean
+[18Jan2025 05:10:01.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:10:01.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:10:06.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> le parti su madre en survival
+[18Jan2025 05:10:23.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> yo me largue
+[18Jan2025 05:10:30.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> me llego al pincho pelear sin comida
+[18Jan2025 05:10:48.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[18Jan2025 05:10:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ahg nd y tengo los chunks al maximo+
+[18Jan2025 05:11:13.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> yo hice una wbda directa
+[18Jan2025 05:11:41.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> encontre una
+[18Jan2025 05:12:13.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [The City at the End of the Game]
+[18Jan2025 05:14:15.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> voy encontrando 3 de los portales para volver xs
+[18Jan2025 05:15:01.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:15:01.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:15:25.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -5.422360165586269,-16.0,-4.276085994587447
+[18Jan2025 05:17:24.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -1.6791206861043975,-24.0,-7.0280123841466775
+[18Jan2025 05:18:28.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [The City at the End of the Game]
+[18Jan2025 05:20:00.654] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[18Jan2025 05:20:01.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 05:20:01.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 05:20:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> encontraste algo
+[18Jan2025 05:20:13.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! 7.859686246381443,-17.0,6.653511162680729
+[18Jan2025 05:20:36.457] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[18Jan2025 05:22:56.382] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}

@@ -525,11 +525,13 @@
       "minecraft:wither_skeleton": "2025-01-04 23:12:46 +0000",
       "minecraft:husk": "2024-12-29 01:33:35 +0000",
       "minecraft:ender_dragon": "2025-01-18 04:49:37 +0000",
+      "minecraft:shulker": "2025-01-18 05:18:31 +0000",
       "minecraft:cave_spider": "2024-12-28 23:48:45 +0000",
       "minecraft:piglin": "2025-01-07 21:35:08 +0000",
       "minecraft:stray": "2024-12-29 21:08:05 +0000",
       "minecraft:enderman": "2024-12-29 22:13:12 +0000",
       "minecraft:silverfish": "2024-12-29 22:19:45 +0000",
+      "minecraft:endermite": "2025-01-18 05:06:40 +0000",
       "minecraft:vex": "2024-12-30 22:25:41 +0000",
       "minecraft:zombie": "2024-12-23 21:27:31 +0000",
       "minecraft:drowned": "2024-12-23 21:26:22 +0000",
@@ -7408,6 +7410,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-18 05:18:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2025-01-18 02:45:55 +0000"
@@ -7441,6 +7449,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-01-18 04:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-01-18 05:19:49 +0000"
     },
     "done": true
   },
