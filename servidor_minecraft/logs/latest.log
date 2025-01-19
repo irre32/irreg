@@ -284,3 +284,36 @@
 [19Jan2025 01:46:16.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-53, y=16, z=275} BlockPos{x=-54, y=17, z=277}
 [19Jan2025 01:46:16.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-54, y=17, z=274} BlockPos{x=-54, y=17, z=277}
 [19Jan2025 01:46:23.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved wrongly!
+[19Jan2025 01:50:01.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[19Jan2025 01:50:26.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9846ms or 196 ticks behind
+[19Jan2025 01:52:12.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/99381, l='ServerLevel[world]', x=-836.57, y=72.00, z=1360.62] was struck by lightning LightningBolt['Lightning Bolt'/101535, l='ServerLevel[world]', x=-833.50, y=71.00, z=1362.50].
+[19Jan2025 01:52:59.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[19Jan2025 01:53:36.645] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[19Jan2025 01:53:36.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[19Jan2025 01:53:36.648] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[19Jan2025 01:53:40.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved wrongly!
+[19Jan2025 01:53:40.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved wrongly!
+[19Jan2025 01:53:50.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[19Jan2025 01:53:50.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[19Jan2025 01:53:50.380] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[19Jan2025 01:55:36.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:44551] logged in with entity id 103876 at (72.5688700171627, 63.085764312744146, -104.9584248856962)
+[19Jan2025 01:55:36.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[19Jan2025 01:55:36.698] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[19Jan2025 01:55:40.316] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[19Jan2025 01:55:40.317] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[19Jan2025 01:55:52.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[19Jan2025 01:55:53.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[19Jan2025 01:55:53.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[19Jan2025 01:56:02.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[19Jan2025 01:56:03.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Jan2025 01:56:03.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Jan2025 01:56:03.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Server closed
+[19Jan2025 01:56:03.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[19Jan2025 01:56:03.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Jan2025 01:56:04.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Jan2025 01:56:04.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Jan2025 01:56:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Jan2025 01:56:04.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Jan2025 01:56:04.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Jan2025 01:56:04.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Jan2025 01:56:04.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
