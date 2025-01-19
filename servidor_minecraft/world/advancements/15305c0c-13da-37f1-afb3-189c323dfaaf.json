@@ -522,6 +522,7 @@
       "minecraft:evoker": "2024-12-29 21:24:42 +0000",
       "minecraft:slime": "2025-01-06 22:10:01 +0000",
       "minecraft:phantom": "2025-01-06 18:14:33 +0000",
+      "minecraft:zombified_piglin": "2025-01-19 02:22:31 +0000",
       "minecraft:witch": "2024-12-23 21:31:25 +0000",
       "minecraft:wither_skeleton": "2025-01-04 23:12:46 +0000",
       "minecraft:husk": "2024-12-29 01:33:35 +0000",
@@ -5979,7 +5980,8 @@
   },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
-      "minecraft:fortress": "2025-01-07 20:22:34 +0000"
+      "minecraft:fortress": "2025-01-07 20:22:34 +0000",
+      "nova_structures:nether_skeleton_tower_basalt": "2025-01-19 03:23:53 +0000"
     },
     "done": false
   },
@@ -7518,6 +7520,60 @@
       "shot_crossbow": "2025-01-18 23:44:03 +0000"
     },
     "done": true
+  },
+  "advancednetherite:nether/netherite_gold_armor": {
+    "criteria": {
+      "netherite_gold_armor": "2025-01-19 02:08:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_emerald_armor": {
+    "criteria": {
+      "netherite_emerald_armor": "2025-01-19 02:12:24 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:nether/netherite_diamond_armor": {
+    "criteria": {
+      "netherite_diamond_armor": "2025-01-19 02:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-19 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-01-19 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-01-19 03:46:54 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-01-19 03:20:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-01-19 03:46:54 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-01-19 03:23:53 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
