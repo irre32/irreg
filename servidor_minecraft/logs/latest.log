@@ -341,3 +341,5 @@
 [19Jan2025 20:06:25.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
 [19Jan2025 20:07:38.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> zz
 [19Jan2025 20:08:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzzzzzzzz
+[19Jan2025 20:13:13.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Jan2025 20:16:07.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 moved wrongly!
