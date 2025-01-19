@@ -343,3 +343,42 @@
 [19Jan2025 20:08:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzzzzzzzz
 [19Jan2025 20:13:13.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [19Jan2025 20:16:07.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 moved wrongly!
+[19Jan2025 20:26:38.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8a4d229b-18b7-318b-9944-a20650c810e8 timed out
+[19Jan2025 20:26:38.387] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player XnoniX1
+[19Jan2025 20:26:38.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[19Jan2025 20:26:43.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Timed out
+[19Jan2025 20:26:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[19Jan2025 20:26:43.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[19Jan2025 20:26:46.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:34783] logged in with entity id 41007 at (-6921.188387335733, 63.0, -3791.2614836257026)
+[19Jan2025 20:26:46.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[19Jan2025 20:26:46.135] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[19Jan2025 20:26:47.758] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[19Jan2025 20:26:47.759] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[19Jan2025 20:26:52.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[19Jan2025 20:26:53.567] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[19Jan2025 20:26:53.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[19Jan2025 20:26:59.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.215.141.28:44127] logged in with entity id 41349 at (-291.3072285698811, -9.0, -340.69999998807907)
+[19Jan2025 20:26:59.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[19Jan2025 20:26:59.355] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[19Jan2025 20:26:59.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[19Jan2025 20:26:59.591] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[19Jan2025 20:27:02.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[19Jan2025 20:27:03.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[19Jan2025 20:27:03.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[19Jan2025 20:30:08.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8a4d229b-18b7-318b-9944-a20650c810e8 timed out
+[19Jan2025 20:30:08.547] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player XnoniX1
+[19Jan2025 20:30:08.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[19Jan2025 20:30:11.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: You logged in from another location
+[19Jan2025 20:30:11.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[19Jan2025 20:30:11.755] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[19Jan2025 20:30:11.841] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jan2025 20:30:11.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.82.50.58:59959] logged in with entity id 43088 at (-301.44736751642364, -27.0, -328.377679352919)
+[19Jan2025 20:30:11.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[19Jan2025 20:30:12.058] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[19Jan2025 20:30:12.763] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[19Jan2025 20:30:12.764] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[19Jan2025 20:30:29.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[19Jan2025 20:30:30.683] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[19Jan2025 20:30:30.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[19Jan2025 20:31:15.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4172ms or 83 ticks behind
+[19Jan2025 20:32:23.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4321ms or 86 ticks behind
