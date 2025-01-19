@@ -5909,9 +5909,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-19 00:25:02 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/vanishing": {
     "criteria": {
       "coded_trigger": "2025-01-19 00:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-19 00:25:02 +0000"
     },
     "done": true
   },
