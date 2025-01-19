@@ -4079,3 +4079,27 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [19Jan2025 01:17:02.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> no hace falta
 [19Jan2025 01:17:31.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [Black or White]
 [19Jan2025 01:18:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has reached the goal [A Small Cemetery]
+[19Jan2025 01:18:16.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19Jan2025 01:18:19.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya no Seta33 ya consegui
+[19Jan2025 01:18:26.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ok
+[19Jan2025 01:18:37.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ahg no se puede poner alas elitras
+[19Jan2025 01:20:03.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -1.6525196352683977,5.686983392118016,-8.265908868991517
+[19Jan2025 01:20:03.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4154ms or 83 ticks behind
+[19Jan2025 01:20:19.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 01:20:19.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 01:20:21.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3137ms or 62 ticks behind
+[19Jan2025 01:20:35.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> cuanto
+[19Jan2025 01:20:46.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> 2 stack de zanahorias doradas
+[19Jan2025 01:20:50.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> los 8
+[19Jan2025 01:20:54.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> aja
+[19Jan2025 01:20:59.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> hay voy
+[19Jan2025 01:21:22.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [First Prayer]
+[19Jan2025 01:21:48.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Jan2025 01:23:01.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [Your First Receptacle]
+[19Jan2025 01:23:48.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> tu casas Seta33
+[19Jan2025 01:24:16.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Erickduran2002 moved wrongly!
+[19Jan2025 01:25:11.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=61, z=164} BlockPos{x=-107, y=60, z=164}
+[19Jan2025 01:25:12.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-109, y=58, z=164} BlockPos{x=-110, y=57, z=164}
+[19Jan2025 01:25:21.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-127, y=39, z=166} BlockPos{x=-127, y=37, z=168}
+[19Jan2025 01:25:22.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 01:25:22.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

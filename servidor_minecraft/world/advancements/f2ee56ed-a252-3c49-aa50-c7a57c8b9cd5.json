@@ -5934,5 +5934,41 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_blue_marble": {
+    "criteria": {
+      "has_ingredient": "2025-01-19 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 01:21:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-01-19 01:23:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-01-19 01:18:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-01-19 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-01-19 01:18:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
