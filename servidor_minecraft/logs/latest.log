@@ -382,3 +382,21 @@
 [19Jan2025 20:30:30.684] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
 [19Jan2025 20:31:15.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4172ms or 83 ticks behind
 [19Jan2025 20:32:23.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4321ms or 86 ticks behind
+[19Jan2025 20:33:57.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[19Jan2025 20:34:17.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5389ms or 107 ticks behind
+[19Jan2025 20:35:06.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has completed the challenge [Soul Eater]
+[19Jan2025 20:36:28.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[19Jan2025 20:40:09.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -6.264294691196028,-9.0,2.2789162719923866
+[19Jan2025 20:40:24.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3319ms or 66 ticks behind
+[19Jan2025 20:40:54.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15148ms or 302 ticks behind
+[19Jan2025 20:41:15.310] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[19Jan2025 20:41:29.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19563ms or 391 ticks behind
+[19Jan2025 20:41:37.317] [Worker-Main-57/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[19Jan2025 20:41:44.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Disconnected
+[19Jan2025 20:41:44.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[19Jan2025 20:41:44.276] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[19Jan2025 20:41:44.999] [Worker-Main-31/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[19Jan2025 20:41:49.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5424ms or 108 ticks behind
+[19Jan2025 20:42:06.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[19Jan2025 20:42:06.815] [Worker-Main-24/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[19Jan2025 20:42:06.849] [Worker-Main-24/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
