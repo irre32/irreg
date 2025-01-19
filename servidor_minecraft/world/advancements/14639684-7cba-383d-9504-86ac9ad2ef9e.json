@@ -2323,6 +2323,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "tavern_dark_oak": "2025-01-09 08:02:15 +0000",
+      "pillager_outpost": "2025-01-19 19:57:11 +0000",
       "illager_camp": "2024-12-29 00:14:44 +0000"
     },
     "done": false
@@ -7862,6 +7863,18 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-01-19 19:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-01-19 19:51:48 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-01-19 19:57:11 +0000"
     },
     "done": true
   },
