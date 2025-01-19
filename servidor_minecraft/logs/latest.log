@@ -140,3 +140,26 @@
 [19Jan2025 00:54:00.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
 [19Jan2025 00:54:18.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3383ms or 67 ticks behind
 [19Jan2025 00:55:46.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[19Jan2025 00:57:16.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[19Jan2025 00:57:38.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6815ms or 136 ticks behind
+[19Jan2025 00:58:38.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[19Jan2025 01:02:55.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[19Jan2025 01:03:36.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> setaaa
+[19Jan2025 01:03:54.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> que
+[19Jan2025 01:03:55.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[19Jan2025 01:03:55.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[19Jan2025 01:03:55.723] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[19Jan2025 01:04:03.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[19Jan2025 01:04:21.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:52289] logged in with entity id 61987 at (-49.775736504279735, 68.5, -375.5795315299053)
+[19Jan2025 01:04:21.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[19Jan2025 01:04:21.170] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[19Jan2025 01:04:22.382] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[19Jan2025 01:04:22.383] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[19Jan2025 01:04:35.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[19Jan2025 01:04:36.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[19Jan2025 01:04:36.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[19Jan2025 01:04:40.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> gracias
+[19Jan2025 01:04:42.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> que Erickduran2002
+[19Jan2025 01:04:56.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> gracias bro
+[19Jan2025 01:06:59.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> me perdi
+[19Jan2025 01:07:06.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
