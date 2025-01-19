@@ -3244,3 +3244,62 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [19Jan2025 00:14:02.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
 [19Jan2025 00:14:04.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jan2025 00:14:04.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 00:15:07.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Jan2025 00:15:26.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4829ms or 96 ticks behind
+[19Jan2025 00:16:24.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[19Jan2025 00:16:24.051] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[19Jan2025 00:16:24.052] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Seta33
+[19Jan2025 00:16:24.052] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Seta33
+[19Jan2025 00:16:24.052] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Seta33
+[19Jan2025 00:16:24.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[19Jan2025 00:16:24.053] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 14639684-7cba-383d-9504-86ac9ad2ef9e to disconnected: {disabled=false, disconnected=true, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[19Jan2025 00:16:24.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:24.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:24.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:24.283] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:24.284] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:24.284] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:24.284] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:24.284] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:24.284] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:24.284] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:50363
+[19Jan2025 00:16:28.924] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=true, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[19Jan2025 00:16:29.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[19Jan2025 00:16:30.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[19Jan2025 00:16:30.869] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Seta33 to connected: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[19Jan2025 00:16:30.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[19Jan2025 00:16:31.023] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[19Jan2025 00:18:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> Erickduran2002 tienes de esos cosos rojos?
+[19Jan2025 00:18:51.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> seed of caos de llama
+[19Jan2025 00:19:06.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> tienen algun lugar para ganar expe
+[19Jan2025 00:19:11.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> se
+[19Jan2025 00:19:11.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 00:19:11.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 00:19:13.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> no ya lo gaste
+[19Jan2025 00:19:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> bajeza
+[19Jan2025 00:19:19.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> todo en mi armadura
+[19Jan2025 00:19:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> necesitas para duplicar esa cosa
+[19Jan2025 00:19:49.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> tengo completo
+[19Jan2025 00:20:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> pero quiero para tener uno mas por si aca
+[19Jan2025 00:20:25.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> si consigo te doy
+[19Jan2025 00:20:34.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> igual estoy reuniendo para mi hermano y primo
+[19Jan2025 00:20:35.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> que buscan?
+[19Jan2025 00:20:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> aya
+[19Jan2025 00:20:45.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> quieres xp?
+[19Jan2025 00:20:52.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> pero como no se conectan a ti te lo dare
+[19Jan2025 00:20:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> si
+[19Jan2025 00:21:00.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> necesito expe
+[19Jan2025 00:21:01.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> grax
+[19Jan2025 00:21:10.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> tengo un lugar
+[19Jan2025 00:21:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ve al nether
+[19Jan2025 00:21:43.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> voy
+[19Jan2025 00:22:07.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[19Jan2025 00:22:23.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ya estoy
+[19Jan2025 00:23:21.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> coords
+[19Jan2025 00:23:33.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> -150 66 14
+[19Jan2025 00:23:48.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> voy
+[19Jan2025 00:24:14.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 00:24:14.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 00:24:26.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> los coras como es? solo 2 hileras?
+[19Jan2025 00:24:33.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ci
+[19Jan2025 00:25:12.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
