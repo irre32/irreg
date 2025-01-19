@@ -306,3 +306,38 @@
 [19Jan2025 20:01:04.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3656ms or 73 ticks behind
 [19Jan2025 20:01:16.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Rabbit['The Killer Bunny'/28260, l='ServerLevel[world]', x=-6843.00, y=112.00, z=-3711.60] died: The Killer Bunny was slain by Cat
 [19Jan2025 20:01:21.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[19Jan2025 20:02:03.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27340ms or 546 ticks behind
+[19Jan2025 20:02:38.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19951ms or 399 ticks behind
+[19Jan2025 20:02:58.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8a4d229b-18b7-318b-9944-a20650c810e8 timed out
+[19Jan2025 20:02:58.259] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player XnoniX1
+[19Jan2025 20:02:58.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[19Jan2025 20:03:01.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[19Jan2025 20:03:02.580] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[19Jan2025 20:03:02.581] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[19Jan2025 20:03:17.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 8a4d229b-18b7-318b-9944-a20650c810e8 timed out
+[19Jan2025 20:03:17.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player XnoniX1
+[19Jan2025 20:03:17.375] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[19Jan2025 20:03:26.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Timed out
+[19Jan2025 20:03:26.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[19Jan2025 20:03:26.124] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[19Jan2025 20:03:27.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.82.50.58:56745] logged in with entity id 30727 at (-388.83069470504046, 78.0, -529.1804549299844)
+[19Jan2025 20:03:27.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[19Jan2025 20:03:27.961] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[19Jan2025 20:03:29.411] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[19Jan2025 20:03:29.413] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[19Jan2025 20:03:58.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XnoniX1 lost connection: Timed out
+[19Jan2025 20:03:58.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 left the game
+[19Jan2025 20:03:58.071] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XnoniX1
+[19Jan2025 20:04:10.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.215.141.28:51951] logged in with entity id 31236 at (-388.83069470504046, 77.53584062504456, -529.1804549299844)
+[19Jan2025 20:04:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[19Jan2025 20:04:10.596] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[19Jan2025 20:04:11.748] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[19Jan2025 20:04:11.754] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[19Jan2025 20:04:13.400] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[19Jan2025 20:04:14.403] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[19Jan2025 20:04:14.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[19Jan2025 20:06:25.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[19Jan2025 20:06:25.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[19Jan2025 20:06:25.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[19Jan2025 20:07:38.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> zz
+[19Jan2025 20:08:27.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzzzzzzzz
