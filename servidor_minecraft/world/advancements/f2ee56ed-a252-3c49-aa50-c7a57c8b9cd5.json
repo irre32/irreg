@@ -5908,6 +5908,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 00:02:10 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_master": {
     "criteria": {
       "is_triggered": "2025-01-18 23:21:03 +0000"

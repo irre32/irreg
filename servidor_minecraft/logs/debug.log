@@ -2943,3 +2943,47 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [18Jan2025 23:52:53.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5080ms or 101 ticks behind
 [18Jan2025 23:53:25.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
 [18Jan2025 23:53:30.949] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[18Jan2025 23:53:43.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Jan2025 23:53:49.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 23:53:49.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 23:54:11.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12848ms or 256 ticks behind
+[18Jan2025 23:55:51.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> llegue
+[18Jan2025 23:55:58.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! 7.9281964185375955,-1.0,6.066789066828051
+[18Jan2025 23:55:58.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ah donde
+[18Jan2025 23:56:10.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> voy
+[18Jan2025 23:56:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ademtrp estoy
+[18Jan2025 23:57:31.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> ah fueron los 2
+[18Jan2025 23:57:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> Irregular24 te olvidaste de cambiar un bloque gil
+[18Jan2025 23:57:48.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ah
+[18Jan2025 23:57:54.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> sale tu nombre
+[18Jan2025 23:58:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> Seta33 oe tu mejer amiga me hizo descargar temu por la weba :v
+[18Jan2025 23:58:42.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ?????
+[18Jan2025 23:58:46.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> gracias
+[18Jan2025 23:58:59.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 23:58:59.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 23:59:41.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> como entraron ahi
+[18Jan2025 23:59:49.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> hacks??. modo creativo??
+[19Jan2025 00:00:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> se metio su polvito el Seta33
+[19Jan2025 00:00:40.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> polvo tienes?
+[19Jan2025 00:00:47.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> polvora
+[19Jan2025 00:00:48.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Erickduran2002> no usaron modo creativo pa esto
+[19Jan2025 00:00:55.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> para que?
+[19Jan2025 00:02:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Erickduran2002 has made the advancement [Vanishing]
+[19Jan2025 00:02:10.438] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Irregular24: {disabled=true, disconnected=false, uuid=15305c0c-13da-37f1-afb3-189c323dfaaf, name=Irregular24, group=null}
+[19Jan2025 00:02:13.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[19Jan2025 00:02:21.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set Irregular24's game mode to Survival Mode]
+[19Jan2025 00:02:24.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[19Jan2025 00:02:27.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[19Jan2025 00:02:41.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[19Jan2025 00:02:45.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set Irregular24's game mode to Survival Mode]
+[19Jan2025 00:02:46.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[19Jan2025 00:02:47.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[19Jan2025 00:03:02.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has completed the challenge [Master of Escape]
+[19Jan2025 00:03:48.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> comida tienes Irregular24
+[19Jan2025 00:03:53.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> o tu Erickduran2002
+[19Jan2025 00:04:00.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 00:04:00.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 00:04:10.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ahg me esta jodiendo el juego de mrd
+[19Jan2025 00:04:16.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[19Jan2025 00:04:21.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set Irregular24's game mode to Survival Mode]
+[19Jan2025 00:04:23.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
