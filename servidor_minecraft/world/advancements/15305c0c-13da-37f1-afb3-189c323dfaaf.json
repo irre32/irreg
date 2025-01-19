@@ -7551,15 +7551,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
-    "criteria": {
-      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-01-19 03:46:54 +0000"
-    },
-    "done": false
-  },
   "nova_structures:nether/find_piglins": {
     "criteria": {
       "nova_structures:piglin_camp": "2025-01-19 03:20:05 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-01-19 03:23:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-01-19 03:46:54 +0000"
     },
     "done": false
   },
@@ -7568,12 +7574,6 @@
       "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-01-19 03:46:54 +0000"
     },
     "done": true
-  },
-  "nova_structures:nether/find_skeleton_tower": {
-    "criteria": {
-      "nova_structures:nether_skeleton_tower_basalt": "2025-01-19 03:23:53 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
