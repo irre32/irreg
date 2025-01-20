@@ -363,3 +363,12 @@
 [20Jan2025 05:15:29.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to Irregular24]
 [20Jan2025 05:15:41.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ?
 [20Jan2025 05:15:47.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> a dormir mrd
+[20Jan2025 05:16:50.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -53.500000, 68.500000, -363.500000]
+[20Jan2025 05:17:36.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[20Jan2025 05:18:00.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> safo
+[20Jan2025 05:18:10.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> dale
+[20Jan2025 05:18:16.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[20Jan2025 05:18:16.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[20Jan2025 05:18:16.261] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[20Jan2025 05:18:37.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-854, y=71, z=1386} BlockPos{x=-854, y=72, z=1385}
+[20Jan2025 05:18:37.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-854, y=71, z=1386} BlockPos{x=-854, y=72, z=1385}
