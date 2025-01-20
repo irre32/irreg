@@ -372,3 +372,6 @@
 [20Jan2025 05:18:16.261] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
 [20Jan2025 05:18:37.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-854, y=71, z=1386} BlockPos{x=-854, y=72, z=1385}
 [20Jan2025 05:18:37.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-854, y=71, z=1386} BlockPos{x=-854, y=72, z=1385}
+[20Jan2025 05:37:03.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[20Jan2025 05:37:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[20Jan2025 05:37:03.591] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
