@@ -305,3 +305,18 @@
 [20Jan2025 04:06:12.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [20Jan2025 04:06:12.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [20Jan2025 04:15:22.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20Jan2025 04:28:32.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[20Jan2025 04:28:32.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[20Jan2025 04:28:32.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[20Jan2025 04:28:46.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[20Jan2025 04:28:46.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[20Jan2025 04:28:46.021] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[20Jan2025 04:31:50.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:42709] logged in with entity id 49594 at (-60.984672852683445, 75.0, -307.30000001192093)
+[20Jan2025 04:31:50.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[20Jan2025 04:31:50.480] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[20Jan2025 04:31:52.136] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[20Jan2025 04:31:52.137] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[20Jan2025 04:32:05.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[20Jan2025 04:32:06.305] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[20Jan2025 04:32:06.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[20Jan2025 04:34:39.903] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Seta33" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-65, y=68, z=-380}] too quickly!
