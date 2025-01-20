@@ -7899,6 +7899,12 @@
     },
     "done": true
   },
+  "usefulslime:recipes/slippery_slime_block": {
+    "criteria": {
+      "has_slime_block": "2025-01-20 03:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2025-01-20 03:27:37 +0000"
@@ -7908,6 +7914,12 @@
   "toughasnails:recipes/food/cactus_juice": {
     "criteria": {
       "has_cactus": "2025-01-20 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-01-20 03:37:20 +0000"
     },
     "done": true
   },
