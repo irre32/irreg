@@ -326,3 +326,40 @@
 [20Jan2025 04:42:39.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-814, y=-7, z=1373} BlockPos{x=-812, y=-8, z=1373}
 [20Jan2025 04:47:10.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
 [20Jan2025 04:55:02.502] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[20Jan2025 05:06:54.932] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[20Jan2025 05:06:54.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[20Jan2025 05:06:54.935] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[20Jan2025 05:07:09.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[20Jan2025 05:07:09.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[20Jan2025 05:07:09.043] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[20Jan2025 05:08:01.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:43773] logged in with entity id 62861 at (-2668.3202326521173, 41.41999998688698, -1923.3618552580742)
+[20Jan2025 05:08:01.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[20Jan2025 05:08:01.528] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[20Jan2025 05:08:02.854] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[20Jan2025 05:08:02.855] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[20Jan2025 05:08:10.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[20Jan2025 05:08:11.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[20Jan2025 05:08:11.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[20Jan2025 05:11:57.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-784, y=54, z=1456} BlockPos{x=-788, y=54, z=1456}
+[20Jan2025 05:11:57.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-784, y=54, z=1457} BlockPos{x=-788, y=54, z=1456}
+[20Jan2025 05:11:57.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=53, z=1457} BlockPos{x=-788, y=54, z=1456}
+[20Jan2025 05:12:00.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=53, z=1459} BlockPos{x=-785, y=51, z=1459}
+[20Jan2025 05:12:01.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=53, z=1459} BlockPos{x=-785, y=51, z=1459}
+[20Jan2025 05:12:01.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=53, z=1459} BlockPos{x=-785, y=51, z=1459}
+[20Jan2025 05:12:07.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=52, z=1459} BlockPos{x=-784, y=52, z=1458}
+[20Jan2025 05:12:07.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=52, z=1459} BlockPos{x=-784, y=52, z=1458}
+[20Jan2025 05:12:07.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=52, z=1459} BlockPos{x=-784, y=52, z=1458}
+[20Jan2025 05:12:07.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=52, z=1459} BlockPos{x=-784, y=52, z=1458}
+[20Jan2025 05:12:07.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=52, z=1459} BlockPos{x=-784, y=52, z=1458}
+[20Jan2025 05:12:07.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=52, z=1459} BlockPos{x=-784, y=52, z=1458}
+[20Jan2025 05:12:07.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=52, z=1459} BlockPos{x=-784, y=52, z=1458}
+[20Jan2025 05:12:07.991] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-785, y=52, z=1459} BlockPos{x=-784, y=52, z=1458}
+[20Jan2025 05:12:08.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-788, y=51, z=1459} BlockPos{x=-787, y=51, z=1458}
+[20Jan2025 05:12:08.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-787, y=52, z=1460} BlockPos{x=-787, y=51, z=1458}
+[20Jan2025 05:12:08.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-787, y=52, z=1460} BlockPos{x=-787, y=51, z=1458}
+[20Jan2025 05:14:42.144] [Worker-Main-31/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Jan2025 05:14:48.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6325ms or 126 ticks behind
+[20Jan2025 05:15:14.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[20Jan2025 05:15:29.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to Irregular24]
+[20Jan2025 05:15:41.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ?
+[20Jan2025 05:15:47.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> a dormir mrd
