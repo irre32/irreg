@@ -375,3 +375,14 @@
 [20Jan2025 05:37:03.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
 [20Jan2025 05:37:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
 [20Jan2025 05:37:03.591] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[20Jan2025 05:37:26.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Jan2025 05:37:27.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jan2025 05:37:27.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jan2025 05:37:27.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jan2025 05:37:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jan2025 05:37:27.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jan2025 05:37:27.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jan2025 05:37:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jan2025 05:37:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jan2025 05:37:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jan2025 05:37:27.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
