@@ -289,3 +289,18 @@
 [20Jan2025 03:56:32.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6082ms or 121 ticks behind
 [20Jan2025 03:57:09.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [20Jan2025 04:03:33.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved wrongly!
+[20Jan2025 04:04:29.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[20Jan2025 04:04:31.264] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[20Jan2025 04:04:31.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[20Jan2025 04:04:31.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[20Jan2025 04:04:37.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[20Jan2025 04:04:37.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[20Jan2025 04:04:37.264] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[20Jan2025 04:05:58.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:48263] logged in with entity id 40481 at (-55.668928562381915, 68.5, -379.14610650408207)
+[20Jan2025 04:05:58.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[20Jan2025 04:05:58.968] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[20Jan2025 04:06:01.681] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[20Jan2025 04:06:01.683] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[20Jan2025 04:06:11.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[20Jan2025 04:06:12.646] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[20Jan2025 04:06:12.647] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
