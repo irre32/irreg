@@ -7733,6 +7733,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-01-20 04:36:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-20 04:27:46 +0000"

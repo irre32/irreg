@@ -320,3 +320,7 @@
 [20Jan2025 04:32:06.305] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [20Jan2025 04:32:06.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [20Jan2025 04:34:39.903] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Seta33" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-65, y=68, z=-380}] too quickly!
+[20Jan2025 04:36:07.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[20Jan2025 04:36:49.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has reached the goal [Beaconator]
+[20Jan2025 04:39:04.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
+[20Jan2025 04:42:39.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-814, y=-7, z=1373} BlockPos{x=-812, y=-8, z=1373}
