@@ -139,3 +139,49 @@
 [20Jan2025 02:48:15.946] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [20Jan2025 02:48:15.957] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
 [20Jan2025 02:48:43.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14390ms or 287 ticks behind
+[20Jan2025 02:50:43.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:54913] logged in with entity id 1814 at (-60.8760653417217, 75.0, -307.69999998807907)
+[20Jan2025 02:50:43.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[20Jan2025 02:50:43.566] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[20Jan2025 02:50:46.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[20Jan2025 02:50:56.710] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[20Jan2025 02:50:56.716] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[20Jan2025 02:51:08.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6263ms or 125 ticks behind
+[20Jan2025 02:51:22.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[20Jan2025 02:51:23.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[20Jan2025 02:51:23.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[20Jan2025 02:52:49.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> que haces
+[20Jan2025 02:53:15.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> voy hacer una granja de polvora con forma de cabeza de creeper
+[20Jan2025 02:53:38.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> polvora para¡
+[20Jan2025 02:53:44.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> cohetes
+[20Jan2025 02:54:06.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> y la de caña?
+[20Jan2025 02:54:09.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> tengo
+[20Jan2025 02:54:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> donde
+[20Jan2025 02:54:21.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> desobra
+[20Jan2025 02:54:29.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ah granja
+[20Jan2025 02:54:33.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no tengo pero para que
+[20Jan2025 02:54:40.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> a poco
+[20Jan2025 02:55:35.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> no se puede shulkers dentro de shulkers?
+[20Jan2025 02:55:37.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> asco
+[20Jan2025 02:55:40.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no
+[20Jan2025 02:56:15.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> la bolsa del end se craftea?
+[20Jan2025 02:56:21.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no
+[20Jan2025 02:56:40.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> donde se encuentra
+[20Jan2025 02:56:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> con la bolsa que te da cuando matas al dragon se consigue
+[20Jan2025 02:57:18.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> no me dio ahg
+[20Jan2025 02:57:41.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> voy a revivirlo entonces
+[20Jan2025 02:57:56.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> sin creativo
+[20Jan2025 02:58:03.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ajs
+[20Jan2025 02:58:10.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> se puede no?
+[20Jan2025 02:58:20.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> segun vi si
+[20Jan2025 02:58:23.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> si con la estrella
+[20Jan2025 02:58:50.021] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[20Jan2025 02:59:17.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ahg popie por webon
+[20Jan2025 02:59:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> elitras?
+[20Jan2025 02:59:47.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> la bolsa que te dio al matar al dragon dio
+[20Jan2025 03:00:00.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> esos que explotan y con eso se revive
+[20Jan2025 03:00:04.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> brujula, aliento
+[20Jan2025 03:00:32.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya tengo el bicon de hierro
+[20Jan2025 03:00:33.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v}
+[20Jan2025 03:00:40.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> para?
+[20Jan2025 03:00:53.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> terminar de picar el chunk
+[20Jan2025 03:00:59.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> a poco
