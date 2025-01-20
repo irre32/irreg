@@ -3688,7 +3688,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-04 21:36:56 +0000",
       "minecraft:nether_wastes": "2025-01-04 21:35:25 +0000",
-      "minecraft:soul_sand_valley": "2025-01-07 23:09:34 +0000"
+      "minecraft:soul_sand_valley": "2025-01-07 23:09:34 +0000",
+      "minecraft:basalt_deltas": "2025-01-20 00:41:44 +0000"
     },
     "done": false
   },
@@ -4819,6 +4820,48 @@
       "is_triggered": "2025-01-19 19:55:38 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-19 22:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-19 23:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-19 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:my_size": {
+    "criteria": {
+      "my_size_0": "2025-01-19 23:39:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-01-19 23:39:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_5": "2025-01-19 23:39:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
