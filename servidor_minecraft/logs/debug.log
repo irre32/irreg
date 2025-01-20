@@ -2709,3 +2709,25 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [20Jan2025 03:10:26.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
 [20Jan2025 03:10:29.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> recien entre
 [20Jan2025 03:10:52.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20Jan2025 03:11:34.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[20Jan2025 03:11:58.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8645ms or 172 ticks behind
+[20Jan2025 03:12:28.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ahg desde que entraste ta lageadazo
+[20Jan2025 03:12:59.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved wrongly!
+[20Jan2025 03:13:04.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> normal
+[20Jan2025 03:13:09.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> se generan mas mobs
+[20Jan2025 03:13:17.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 03:13:17.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 03:17:16.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> lag da tu granja de mrd
+[20Jan2025 03:17:24.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> nd
+[20Jan2025 03:17:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> fuera de wbdas me acerque y me hizo mrd
+[20Jan2025 03:17:45.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> yo ando normal
+[20Jan2025 03:17:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
+[20Jan2025 03:18:17.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 03:18:17.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 03:18:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ?
+[20Jan2025 03:19:07.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> porque aqui no funciona el decifrador
+[20Jan2025 03:19:13.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> nose
+[20Jan2025 03:19:20.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> hay en aldgunos que no da
+[20Jan2025 03:19:27.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> lo hice en todas las casas pero en el tuyo no da
+[20Jan2025 03:19:27.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> en el erick en uno no me daba :c
+[20Jan2025 03:19:29.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
