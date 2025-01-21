@@ -33,3 +33,8 @@
 [21Jan2025 00:33:31.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [21Jan2025 00:33:32.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [21Jan2025 00:33:32.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[21Jan2025 00:43:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> madera tienes?
+[21Jan2025 00:43:42.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> NA
+[21Jan2025 00:44:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ANDO LLEVANDO A UNOS GATOS DE 3 MIL BLOQUES DE MI CASA Y NNO PUEDO UTILIZAR ELITRAS NI PORTA :"V
+[21Jan2025 00:46:51.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 5.169205418030174,0.33319999363422426,8.773819043101867
+[21Jan2025 00:46:51.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8540ms or 170 ticks behind
