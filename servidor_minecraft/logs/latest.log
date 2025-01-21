@@ -182,3 +182,6 @@
 [21Jan2025 19:48:26.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 118.500000, 63.500000, -233.500000]
 [21Jan2025 19:48:57.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -39.500000, 68.500000, -383.500000]
 [21Jan2025 19:49:06.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[21Jan2025 19:52:14.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21Jan2025 19:53:06.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[21Jan2025 19:53:55.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
