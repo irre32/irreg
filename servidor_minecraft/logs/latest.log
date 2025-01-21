@@ -185,3 +185,6 @@
 [21Jan2025 19:52:14.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [21Jan2025 19:53:06.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
 [21Jan2025 19:53:55.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[21Jan2025 20:11:55.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[21Jan2025 20:11:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[21Jan2025 20:11:55.258] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33

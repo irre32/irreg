@@ -2826,3 +2826,13 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [21Jan2025 20:00:08.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 20:05:08.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 20:05:08.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 20:10:08.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 20:10:08.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 20:11:55.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[21Jan2025 20:11:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[21Jan2025 20:11:55.255] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Seta33
+[21Jan2025 20:11:55.258] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[21Jan2025 20:15:08.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 20:15:08.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 20:20:08.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 20:20:08.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
