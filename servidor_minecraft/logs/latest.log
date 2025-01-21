@@ -200,3 +200,35 @@
 [21Jan2025 20:29:45.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [21Jan2025 20:29:45.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
 [21Jan2025 21:04:56.527] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[21Jan2025 22:05:36.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:43535] logged in with entity id 50240 at (-83.47449137277106, 64.0, -120.95904117586876)
+[21Jan2025 22:05:36.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[21Jan2025 22:05:36.561] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[21Jan2025 22:05:42.061] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[21Jan2025 22:05:42.062] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[21Jan2025 22:05:59.209] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[21Jan2025 22:06:00.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[21Jan2025 22:06:00.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[21Jan2025 22:07:50.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> QUE HACES?
+[21Jan2025 22:07:54.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[21Jan2025 22:08:03.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to Irregular24]
+[21Jan2025 22:08:38.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> WBDAS, CUANTO GENERO TU GRANJA DE POLVORA?
+[21Jan2025 22:08:49.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set Seta33's game mode to Survival Mode]
+[21Jan2025 22:08:52.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> nsoe :v
+[21Jan2025 22:09:10.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> QUE LAG WBN
+[21Jan2025 22:09:16.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ?
+[21Jan2025 22:11:21.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzzzzzzzzz
+[21Jan2025 22:11:35.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -68.500000, 69.500000, -364.500000]
+[21Jan2025 22:11:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzz
+[21Jan2025 22:13:37.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[21Jan2025 22:14:58.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[21Jan2025 22:20:56.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[21Jan2025 22:20:56.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[21Jan2025 22:20:56.122] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[21Jan2025 22:21:03.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:60907] logged in with entity id 57629 at (-846.2422212209372, 76.0, 1307.2776406262467)
+[21Jan2025 22:21:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[21Jan2025 22:21:03.599] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[21Jan2025 22:21:04.853] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[21Jan2025 22:21:04.855] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[21Jan2025 22:21:06.108] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[21Jan2025 22:21:07.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[21Jan2025 22:21:07.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
