@@ -8,3 +8,8 @@
 [21Jan2025 00:05:13.544] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [21Jan2025 00:05:45.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> que haces
 [21Jan2025 00:05:50.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> q ti
+[21Jan2025 00:19:10.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> oe tienes pesacado?
+[21Jan2025 00:19:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> no
+[21Jan2025 00:19:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :"V
+[21Jan2025 00:19:46.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[21Jan2025 00:20:58.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -2.2488834349772446,0.0,-10.065204534948975
