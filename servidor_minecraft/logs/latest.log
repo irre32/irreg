@@ -89,3 +89,17 @@
 [21Jan2025 01:39:11.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
 [21Jan2025 01:40:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Marked chunk [-4, -20] in minecraft:overworld to be force loaded]
 [21Jan2025 01:41:11.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Gamerule randomTickSpeed is now set to: 20]
+[21Jan2025 01:48:00.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Marked chunk [-5, -20] in minecraft:overworld to be force loaded]
+[21Jan2025 01:50:11.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jan2025 01:50:11.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jan2025 01:50:11.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jan2025 01:50:11.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Server closed
+[21Jan2025 01:50:11.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[21Jan2025 01:50:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jan2025 01:50:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jan2025 01:50:12.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jan2025 01:50:12.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jan2025 01:50:12.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jan2025 01:50:12.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jan2025 01:50:12.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jan2025 01:50:12.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
