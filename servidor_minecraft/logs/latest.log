@@ -40,3 +40,9 @@
 [21Jan2025 00:46:51.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8540ms or 170 ticks behind
 [21Jan2025 00:52:53.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [21Jan2025 00:53:10.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[21Jan2025 01:04:34.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[21Jan2025 01:04:34.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[21Jan2025 01:04:34.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[21Jan2025 01:04:42.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[21Jan2025 01:04:43.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
+[21Jan2025 01:04:43.388] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
