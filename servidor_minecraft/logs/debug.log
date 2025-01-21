@@ -2655,3 +2655,55 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [21Jan2025 22:51:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> pasa 16 cabezas
 [21Jan2025 22:51:23.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> bueno 15
 [21Jan2025 22:51:29.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> una para ti
+[21Jan2025 22:51:43.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ya tengo :v
+[21Jan2025 22:51:49.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> apoco
+[21Jan2025 22:51:50.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> yo venia por las 16
+[21Jan2025 22:51:54.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
+[21Jan2025 22:51:54.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> admin abuse?
+[21Jan2025 22:52:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> aea
+[21Jan2025 22:52:08.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> me fui a conseguir mientras no merespondias
+[21Jan2025 22:52:31.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no me acuerdo que tenia xd
+[21Jan2025 22:52:32.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> dame mrd
+[21Jan2025 22:53:35.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe y si le pongo reparacion a la cantiplora
+[21Jan2025 22:53:38.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[21Jan2025 22:53:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ?
+[21Jan2025 22:53:51.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> a que?
+[21Jan2025 22:53:59.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> a esto
+[21Jan2025 22:54:02.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> me diste cabeza?
+[21Jan2025 22:54:07.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> no
+[21Jan2025 22:54:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no se puede :v
+[21Jan2025 22:54:15.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> si se puede
+[21Jan2025 22:54:16.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> abre
+[21Jan2025 22:54:34.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[21Jan2025 22:54:34.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[21Jan2025 22:54:34.473] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Seta33
+[21Jan2025 22:54:34.486] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[21Jan2025 22:54:50.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -897.500000, 75.500000, 1314.500000]
+[21Jan2025 22:54:50.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
+[21Jan2025 22:54:54.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 22:54:54.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 22:55:50.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -91.500000, 79.500000, -321.500000]
+[21Jan2025 22:56:21.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to -869.500000, 77.500000, 1326.500000]
+[21Jan2025 22:58:29.613] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
+[21Jan2025 22:59:53.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 22:59:53.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:00:22.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6286ms or 125 ticks behind
+[21Jan2025 23:00:26.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 0.6121417923700108,-9.66706724457589,5.007407824954811
+[21Jan2025 23:01:26.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[21Jan2025 23:01:26.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[21Jan2025 23:01:26.513] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Irregular24
+[21Jan2025 23:01:26.513] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[21Jan2025 23:01:42.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jan2025 23:01:42.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jan2025 23:01:42.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jan2025 23:01:42.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jan2025 23:01:42.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jan2025 23:01:42.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jan2025 23:01:42.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jan2025 23:01:42.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 23:01:42.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 23:01:42.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jan2025 23:01:42.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jan2025 23:01:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jan2025 23:01:42.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jan2025 23:01:42.533] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
