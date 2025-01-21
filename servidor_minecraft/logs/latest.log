@@ -199,3 +199,4 @@
 [21Jan2025 20:29:44.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [21Jan2025 20:29:45.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [21Jan2025 20:29:45.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[21Jan2025 21:04:56.527] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
