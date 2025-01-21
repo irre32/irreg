@@ -13,3 +13,23 @@
 [21Jan2025 00:19:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :"V
 [21Jan2025 00:19:46.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
 [21Jan2025 00:20:58.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! -2.2488834349772446,0.0,-10.065204534948975
+[21Jan2025 00:21:29.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21Jan2025 00:26:39.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 has made the advancement [Best Friends Forever]
+[21Jan2025 00:29:31.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-45, y=68, z=-464} BlockPos{x=-44, y=69, z=-464}
+[21Jan2025 00:29:50.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[21Jan2025 00:29:50.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[21Jan2025 00:29:50.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[21Jan2025 00:30:02.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Timed out
+[21Jan2025 00:30:02.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[21Jan2025 00:30:02.935] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[21Jan2025 00:30:03.005] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jan2025 00:31:10.952] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64bba434[id=<null>,name=Irregular24,properties={},legacy=false] (/127.98.11.33:44931) lost connection: Disconnected
+[21Jan2025 00:31:43.996] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38ced5ba[id=<null>,name=Irregular24,properties={},legacy=false] (/127.98.11.33:53459) lost connection: Disconnected
+[21Jan2025 00:33:28.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:39909] logged in with entity id 20963 at (-810.2615167436821, 65.46272611721439, -388.029619290875)
+[21Jan2025 00:33:28.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[21Jan2025 00:33:28.722] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[21Jan2025 00:33:29.922] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[21Jan2025 00:33:29.923] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[21Jan2025 00:33:31.228] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[21Jan2025 00:33:32.232] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[21Jan2025 00:33:32.233] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
