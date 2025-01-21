@@ -57,3 +57,17 @@
 [21Jan2025 01:21:17.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [21Jan2025 01:21:19.852] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 14639684-7cba-383d-9504-86ac9ad2ef9e
 [21Jan2025 01:21:19.853] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e) successfully connected to voice chat
+[21Jan2025 01:25:29.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6274ms or 125 ticks behind
+[21Jan2025 01:25:33.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -0.9761661356516242,-5.3074800456282105,9.104997971083975
+[21Jan2025 01:32:14.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[21Jan2025 01:32:14.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[21Jan2025 01:32:14.179] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[21Jan2025 01:32:30.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Timed out
+[21Jan2025 01:32:30.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[21Jan2025 01:32:30.107] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[21Jan2025 01:33:41.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 14639684-7cba-383d-9504-86ac9ad2ef9e timed out
+[21Jan2025 01:33:41.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Seta33
+[21Jan2025 01:33:41.756] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
+[21Jan2025 01:33:49.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
+[21Jan2025 01:33:49.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[21Jan2025 01:33:49.594] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
