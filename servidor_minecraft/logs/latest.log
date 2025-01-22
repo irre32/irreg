@@ -244,3 +244,17 @@
 [22Jan2025 02:09:56.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no mates mrd
 [22Jan2025 02:10:01.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
 [22Jan2025 02:10:33.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 81.500000, 57.500000, -50.500000]
+[22Jan2025 02:11:51.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 15305c0c-13da-37f1-afb3-189c323dfaaf timed out
+[22Jan2025 02:11:51.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Irregular24
+[22Jan2025 02:11:51.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[22Jan2025 02:13:52.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[22Jan2025 02:14:02.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe revisa
+[22Jan2025 02:14:07.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> creo tienes mi espada
+[22Jan2025 02:14:13.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> que mrd
+[22Jan2025 02:14:17.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya aparecio
+[22Jan2025 02:14:30.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe este juego es una mrd
+[22Jan2025 02:14:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> me aparecio la casilla de mi espada vacia
+[22Jan2025 02:14:49.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[22Jan2025 02:16:43.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[22Jan2025 02:17:06.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to -786.500000, 153.500000, 1473.500000]
+[22Jan2025 02:20:37.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
