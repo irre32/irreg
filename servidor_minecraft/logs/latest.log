@@ -183,3 +183,20 @@
 [22Jan2025 01:35:08.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
 [22Jan2025 01:35:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [22Jan2025 01:35:24.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[22Jan2025 01:40:28.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Jan2025 01:40:50.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 moved too quickly! 15.743603111283392,-7.370214044965394,-3.032826026638787
+[22Jan2025 01:40:56.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12610ms or 252 ticks behind
+[22Jan2025 01:41:10.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[22Jan2025 01:41:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> no entiendo una mrd
+[22Jan2025 01:41:39.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[22Jan2025 01:41:46.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ?
+[22Jan2025 01:41:56.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> si no hay barco no hay elitras no?
+[22Jan2025 01:42:03.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> si
+[22Jan2025 01:42:08.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> como si
+[22Jan2025 01:42:18.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> que si no hay barco no hay elitra
+[22Jan2025 01:42:33.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> aea
+[22Jan2025 01:43:05.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=250, z=187} BlockPos{x=-145, y=249, z=187}
+[22Jan2025 01:43:05.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=250, z=187} BlockPos{x=-145, y=249, z=187}
+[22Jan2025 01:43:05.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=250, z=187} BlockPos{x=-145, y=249, z=187}
+[22Jan2025 01:43:05.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=250, z=187} BlockPos{x=-145, y=249, z=187}
+[22Jan2025 01:48:29.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
