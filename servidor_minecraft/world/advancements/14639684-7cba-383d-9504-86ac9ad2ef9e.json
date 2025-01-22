@@ -7924,12 +7924,6 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-01-22 01:58:49 +0000"
-    },
-    "done": true
-  },
   "majruszsdifficulty:recipes/combat/enderium_armor_smithing": {
     "criteria": {
       "has_enderium_ingot": "2025-01-22 01:22:42 +0000"
@@ -7957,6 +7951,12 @@
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2025-01-22 01:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-22 01:58:49 +0000"
     },
     "done": true
   },
