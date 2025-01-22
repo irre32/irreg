@@ -7923,5 +7923,29 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/combat/enderium_armor_smithing": {
+    "criteria": {
+      "has_enderium_ingot": "2025-01-22 01:22:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:enderium_ingot": {
+    "criteria": {
+      "picked_up_ingot": "2025-01-22 01:22:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/combat/enderium_tools_smithing": {
+    "criteria": {
+      "has_enderium_ingot": "2025-01-22 01:22:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/building_blocks/enderium_block": {
+    "criteria": {
+      "has_enderium_ingot": "2025-01-22 01:22:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
