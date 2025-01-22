@@ -7960,5 +7960,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-01-22 23:10:50 +0000",
+      "minecraft:siamese": "2025-01-22 23:10:31 +0000",
+      "minecraft:jellie": "2025-01-22 23:09:31 +0000",
+      "minecraft:red": "2025-01-22 23:10:08 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
