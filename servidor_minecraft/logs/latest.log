@@ -221,3 +221,26 @@
 [22Jan2025 01:59:41.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
 [22Jan2025 01:59:41.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
 [22Jan2025 01:59:41.684] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[22Jan2025 02:04:43.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:46693] logged in with entity id 20173 at (-6.500492976031815, 60.0, 9.66934544532671)
+[22Jan2025 02:04:43.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[22Jan2025 02:04:43.336] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[22Jan2025 02:04:43.513] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[22Jan2025 02:04:43.514] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[22Jan2025 02:04:45.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[22Jan2025 02:04:46.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[22Jan2025 02:04:46.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[22Jan2025 02:06:40.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> que fue no lo hibas a revivir?
+[22Jan2025 02:07:04.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[22Jan2025 02:07:09.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to Irregular24]
+[22Jan2025 02:07:21.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[22Jan2025 02:08:23.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> que haces
+[22Jan2025 02:08:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[22Jan2025 02:09:07.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> le has puesto empuje?
+[22Jan2025 02:09:13.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> si
+[22Jan2025 02:09:17.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> aver
+[22Jan2025 02:09:28.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe mi espada que fue
+[22Jan2025 02:09:32.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> nose
+[22Jan2025 02:09:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> voy a estar afk vpy a cenar
+[22Jan2025 02:09:56.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no mates mrd
+[22Jan2025 02:10:01.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[22Jan2025 02:10:33.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 81.500000, 57.500000, -50.500000]
