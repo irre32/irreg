@@ -200,3 +200,24 @@
 [22Jan2025 01:43:05.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=250, z=187} BlockPos{x=-145, y=249, z=187}
 [22Jan2025 01:43:05.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-147, y=250, z=187} BlockPos{x=-145, y=249, z=187}
 [22Jan2025 01:48:29.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[22Jan2025 01:52:44.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [The End... Again...]
+[22Jan2025 01:52:52.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :v
+[22Jan2025 01:52:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to Seta33]
+[22Jan2025 01:53:06.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> grax
+[22Jan2025 01:53:14.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe mrd vete
+[22Jan2025 01:53:37.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> eso es admin abuse
+[22Jan2025 01:53:50.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> andaba lelgando :v
+[22Jan2025 01:53:59.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> me llega al pincho
+[22Jan2025 01:54:05.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> andate a donde estabvas
+[22Jan2025 01:54:11.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ahg
+[22Jan2025 01:54:28.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> no puedo volver :v
+[22Jan2025 01:56:21.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> carajo fuera
+[22Jan2025 01:57:32.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> oe te vas
+[22Jan2025 01:57:53.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> fuera mrd yo te fije que iva a revivirlo
+[22Jan2025 01:58:22.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> ya ps mrd vete
+[22Jan2025 01:58:26.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> luego lo revives
+[22Jan2025 01:58:49.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Free the End]
+[22Jan2025 01:59:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ahg
+[22Jan2025 01:59:41.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[22Jan2025 01:59:41.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[22Jan2025 01:59:41.684] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
