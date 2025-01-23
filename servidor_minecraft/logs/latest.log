@@ -100,3 +100,19 @@
 [23Jan2025 02:10:32.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> creo que no se generan pero nose
 [23Jan2025 02:10:38.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> aver pera
 [23Jan2025 02:10:41.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[23Jan2025 02:11:51.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[23Jan2025 02:12:13.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> nada creo
+[23Jan2025 02:15:09.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> jummm
+[23Jan2025 02:15:25.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> creo que debo poner las torretas en las esquinas
+[23Jan2025 02:16:14.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[23Jan2025 02:18:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> duerme
+[23Jan2025 02:18:53.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> estoy arreglando la granja pera
+[23Jan2025 02:19:06.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> zzzz
+[23Jan2025 02:19:14.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[23Jan2025 02:19:14.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[23Jan2025 02:19:14.626] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Seta33
+[23Jan2025 02:21:55.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.117.158.103:33915] logged in with entity id 68081 at (-59.309376025776075, 73.0, -129.31544944558047)
+[23Jan2025 02:21:55.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[23Jan2025 02:21:55.667] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[23Jan2025 02:22:03.013] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Seta33 (18)
+[23Jan2025 02:22:03.014] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Seta33
