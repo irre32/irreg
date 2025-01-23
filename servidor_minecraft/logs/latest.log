@@ -36,3 +36,26 @@
 [23Jan2025 01:06:29.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
 [23Jan2025 01:06:32.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [23Jan2025 01:07:40.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[23Jan2025 01:31:00.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[23Jan2025 01:32:18.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[23Jan2025 01:32:58.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:47573] logged in with entity id 39438 at (-765.3256883646068, 58.17103179695612, 1440.3489566834257)
+[23Jan2025 01:32:58.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[23Jan2025 01:32:58.619] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[23Jan2025 01:33:04.677] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[23Jan2025 01:33:04.678] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[23Jan2025 01:33:04.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6154ms or 123 ticks behind
+[23Jan2025 01:33:05.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[23Jan2025 01:33:06.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[23Jan2025 01:33:06.158] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[23Jan2025 01:34:26.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> lag de mrd
+[23Jan2025 01:35:25.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> ?
+[23Jan2025 01:36:47.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> q mrd xd
+[23Jan2025 01:37:00.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> se duplico uno de mis shulkers xd
+[23Jan2025 01:37:05.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> xd
+[23Jan2025 01:37:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> server de mrd ps
+[23Jan2025 01:37:17.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> xd
+[23Jan2025 01:38:58.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> oe mi shulker
+[23Jan2025 01:39:09.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> mi casa ven
+[23Jan2025 01:39:14.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> voy
+[23Jan2025 01:39:27.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23Jan2025 01:39:45.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3327ms or 66 ticks behind
