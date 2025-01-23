@@ -7988,6 +7988,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-01-23 23:26:07 +0000"
+    },
+    "done": true
+  },
   "paraglider:all_vessels": {
     "criteria": {
       "code_triggered": "2025-01-23 21:44:37 +0000"
