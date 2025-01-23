@@ -3067,3 +3067,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [23Jan2025 02:57:35.704] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
 [23Jan2025 03:01:15.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jan2025 03:01:15.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 03:06:15.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 03:06:15.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 03:11:15.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 03:11:15.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
