@@ -2481,3 +2481,13 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [23Jan2025 22:37:18.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Explosive Temper]
 [23Jan2025 22:37:53.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [The Guardian]
 [23Jan2025 22:38:22.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[23Jan2025 22:40:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[23Jan2025 22:41:30.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[23Jan2025 22:41:44.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 22:41:44.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 22:42:12.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
+[23Jan2025 22:42:29.521] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=true, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[23Jan2025 22:42:36.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[23Jan2025 22:43:56.221] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Seta33: {disabled=false, disconnected=false, uuid=14639684-7cba-383d-9504-86ac9ad2ef9e, name=Seta33, group=null}
+[23Jan2025 22:46:44.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 22:46:44.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

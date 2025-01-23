@@ -6444,7 +6444,8 @@
   },
   "born_in_chaos_v1:hatman": {
     "criteria": {
-      "hatman_3": "2025-01-09 07:28:43 +0000"
+      "hatman_3": "2025-01-09 07:28:43 +0000",
+      "hatman_0": "2025-01-23 22:37:10 +0000"
     },
     "done": false
   },
@@ -7993,6 +7994,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:explosive_temper": {
+    "criteria": {
+      "explosive_temper_0": "2025-01-23 22:37:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_candle": {
     "criteria": {
       "has_gray_dye": "2025-01-23 21:45:42 +0000"
@@ -8020,6 +8027,12 @@
   "minecraft:recipes/building_blocks/dye_orange_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-23 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-23 22:37:53 +0000"
     },
     "done": true
   },
