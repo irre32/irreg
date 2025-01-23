@@ -131,3 +131,5 @@
 [23Jan2025 02:35:45.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
 [23Jan2025 02:37:58.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Spectator Mode]
 [23Jan2025 02:38:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[23Jan2025 02:55:26.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved wrongly!
+[23Jan2025 02:57:35.704] [Server thread/INFO] [tombstone/]: The player Irregular24 has successfully been saved
