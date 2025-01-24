@@ -198,3 +198,5 @@
 [24Jan2025 02:50:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> avisas si quieres matarlo voy a estar haciendo mi granja de slime
 [24Jan2025 02:50:13.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> ok
 [24Jan2025 02:58:05.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[24Jan2025 02:58:40.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[24Jan2025 02:59:00.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5580ms or 111 ticks behind

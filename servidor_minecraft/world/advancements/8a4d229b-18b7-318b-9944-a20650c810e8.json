@@ -630,6 +630,7 @@
       "minecraft:blaze": "2025-01-07 23:23:34 +0000",
       "minecraft:skeleton": "2024-12-28 23:47:35 +0000",
       "minecraft:vindicator": "2024-12-29 21:24:37 +0000",
+      "minecraft:magma_cube": "2025-01-24 03:00:41 +0000",
       "minecraft:spider": "2024-12-28 23:06:47 +0000",
       "minecraft:creeper": "2024-12-29 00:25:57 +0000",
       "minecraft:zombified_piglin": "2024-12-29 21:29:57 +0000",
@@ -4875,6 +4876,12 @@
       "has_blackstone": "2025-01-24 02:51:33 +0000"
     },
     "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-01-24 03:05:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
