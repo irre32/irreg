@@ -141,3 +141,14 @@
 [24Jan2025 01:43:58.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
 [24Jan2025 01:43:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
 [24Jan2025 01:43:58.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[24Jan2025 01:47:34.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.98.11.33:38327] logged in with entity id 22034 at (-933.1608465161939, 7.0, 1377.5958422968781)
+[24Jan2025 01:47:34.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[24Jan2025 01:47:34.429] [Server thread/INFO] [Jade/]: Syncing config to Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf)
+[24Jan2025 01:47:36.259] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[24Jan2025 01:47:36.260] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[24Jan2025 01:47:41.911] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[24Jan2025 01:47:42.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
+[24Jan2025 01:47:42.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
+[24Jan2025 01:47:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
+[24Jan2025 01:47:53.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 0.41336617905335515,3.750000148976742,9.493881251823723
+[24Jan2025 01:48:07.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
