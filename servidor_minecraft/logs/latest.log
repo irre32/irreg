@@ -138,3 +138,6 @@
 [24Jan2025 01:16:34.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-944, y=14, z=1380} BlockPos{x=-944, y=13, z=1378}
 [24Jan2025 01:16:40.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-943, y=15, z=1382} BlockPos{x=-943, y=14, z=1380}
 [24Jan2025 01:16:41.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-943, y=15, z=1384} BlockPos{x=-942, y=14, z=1384}
+[24Jan2025 01:43:58.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[24Jan2025 01:43:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[24Jan2025 01:43:58.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24

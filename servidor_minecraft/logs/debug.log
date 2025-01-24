@@ -2441,3 +2441,19 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [24Jan2025 01:16:34.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-944, y=14, z=1380} BlockPos{x=-944, y=13, z=1378}
 [24Jan2025 01:16:40.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-943, y=15, z=1382} BlockPos{x=-943, y=14, z=1380}
 [24Jan2025 01:16:41.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-943, y=15, z=1384} BlockPos{x=-942, y=14, z=1384}
+[24Jan2025 01:17:33.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 01:17:33.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 01:22:33.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 01:22:33.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 01:27:33.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 01:27:33.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 01:32:33.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 01:32:33.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 01:37:33.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 01:37:33.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 01:42:33.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 01:42:33.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 01:43:58.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[24Jan2025 01:43:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[24Jan2025 01:43:58.160] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Irregular24
+[24Jan2025 01:43:58.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
