@@ -128,3 +128,13 @@
 [24Jan2025 00:38:39.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 15305c0c-13da-37f1-afb3-189c323dfaaf
 [24Jan2025 00:38:39.988] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Irregular24 (15305c0c-13da-37f1-afb3-189c323dfaaf) successfully connected to voice chat
 [24Jan2025 00:39:00.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7237ms or 144 ticks behind
+[24Jan2025 01:11:48.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/524, l='ServerLevel[world]', x=-836.55, y=72.00, z=1372.70] died, message: 'Librarian was slain by Zombie Bruiser'
+[24Jan2025 01:11:54.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/498, l='ServerLevel[world]', x=-845.19, y=72.00, z=1359.77] died, message: 'Librarian was slain by Zombie Bruiser'
+[24Jan2025 01:15:06.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-938, y=16, z=1382} BlockPos{x=-939, y=16, z=1382}
+[24Jan2025 01:15:06.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-938, y=16, z=1382} BlockPos{x=-939, y=16, z=1382}
+[24Jan2025 01:15:06.355] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-938, y=16, z=1382} BlockPos{x=-939, y=16, z=1382}
+[24Jan2025 01:15:06.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-938, y=16, z=1382} BlockPos{x=-939, y=16, z=1382}
+[24Jan2025 01:15:06.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-938, y=16, z=1382} BlockPos{x=-939, y=16, z=1382}
+[24Jan2025 01:16:34.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-944, y=14, z=1380} BlockPos{x=-944, y=13, z=1378}
+[24Jan2025 01:16:40.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-943, y=15, z=1382} BlockPos{x=-943, y=14, z=1380}
+[24Jan2025 01:16:41.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-943, y=15, z=1384} BlockPos{x=-942, y=14, z=1384}
