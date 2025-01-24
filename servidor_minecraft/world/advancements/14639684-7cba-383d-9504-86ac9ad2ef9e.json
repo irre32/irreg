@@ -7988,21 +7988,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
     "criteria": {
-      "arachnophobes_nightmare_0": "2025-01-23 23:26:07 +0000"
+      "has_needed_dye": "2025-01-23 21:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-23 21:38:43 +0000"
     },
     "done": true
   },
   "paraglider:all_vessels": {
     "criteria": {
       "code_triggered": "2025-01-23 21:44:37 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:explosive_temper": {
-    "criteria": {
-      "explosive_temper_0": "2025-01-23 22:37:18 +0000"
     },
     "done": true
   },
@@ -8024,24 +8024,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-23 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-01-23 21:38:43 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:pillager_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-01-23 22:37:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_gray_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-23 21:45:42 +0000"
@@ -8051,6 +8033,24 @@
   "minecraft:recipes/building_blocks/dye_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-23 21:45:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:explosive_temper": {
+    "criteria": {
+      "explosive_temper_0": "2025-01-23 22:37:18 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:pillager_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-23 22:37:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-01-23 23:26:07 +0000"
     },
     "done": true
   },
