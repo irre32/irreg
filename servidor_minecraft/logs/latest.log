@@ -152,3 +152,16 @@
 [24Jan2025 01:47:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Spectator Mode]
 [24Jan2025 01:47:53.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! 0.41336617905335515,3.750000148976742,9.493881251823723
 [24Jan2025 01:48:07.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Survival Mode]
+[24Jan2025 02:23:55.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[24Jan2025 02:25:38.550] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XnoniX1[/127.215.141.28:44281] logged in with entity id 30114 at (-66.15249076803819, 19.0, -289.5189064844437)
+[24Jan2025 02:25:38.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XnoniX1 joined the game
+[24Jan2025 02:25:38.610] [Server thread/INFO] [Jade/]: Syncing config to XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8)
+[24Jan2025 02:25:40.491] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XnoniX1 (18)
+[24Jan2025 02:25:40.492] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XnoniX1
+[24Jan2025 02:25:40.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[24Jan2025 02:25:45.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 8a4d229b-18b7-318b-9944-a20650c810e8
+[24Jan2025 02:25:46.935] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 8a4d229b-18b7-318b-9944-a20650c810e8
+[24Jan2025 02:25:46.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player XnoniX1 (8a4d229b-18b7-318b-9944-a20650c810e8) successfully connected to voice chat
+[24Jan2025 02:25:48.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :O
+[24Jan2025 02:26:04.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> hola mano
+[24Jan2025 02:26:07.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> buenas
