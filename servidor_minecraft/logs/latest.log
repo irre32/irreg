@@ -165,3 +165,9 @@
 [24Jan2025 02:25:48.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> :O
 [24Jan2025 02:26:04.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> hola mano
 [24Jan2025 02:26:07.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> buenas
+[24Jan2025 02:36:12.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 moved too quickly! -3.7626020193620207,11.174013800650428,-12.9158269282932
+[24Jan2025 02:36:12.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[24Jan2025 02:36:29.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XnoniX1> mano y mis 30 niveles ?
+[24Jan2025 02:36:38.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Irregular24> voy
+[24Jan2025 02:36:48.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Set own game mode to Creative Mode]
+[24Jan2025 02:37:15.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Irregular24: Teleported Irregular24 to XnoniX1]
